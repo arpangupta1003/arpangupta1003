@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arpangupta1003
 - 👀 I’m interested in Web development and upcoming technologies, Blockchain Development Technologies
-- 🌱 I’m currently learning Backend Development using Node.JS framework
+- 🌱 I’m currently working in Backend Development using tools like Node.Js, Express.Js, EJS, etc.
 - 📫 How to reach me arpangupta1003@gmail.com
 
 <!---
