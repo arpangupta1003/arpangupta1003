@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently working in Backend Development using tools like Node.Js, Express.Js, EJS, etc.
 - ![Visitor Count](https://profile-counter.glitch.me/arpangupta1003/count.svg)
 - 📫 How to reach me:
--         mail me at  arpangupta1003@gmail.com
--         call me at +91 9058263801
+- mail me at  arpangupta1003@gmail.com
+- call me at +91 9058263801
