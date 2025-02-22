@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan2819&label=Profile%20views&color=0e75b6&style=flat" alt="arpan" /> </p>
 
 
 - 📫 How to reach me **arpangupta1003@gmail.com**
