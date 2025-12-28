@@ -15,6 +15,10 @@ Know more about my experience on
 ![](https://nirzak-streak-stats.vercel.app/?user=arpangupta1003&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpangupta1003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🧠 LeetCode Stats
+![](https://leetcard.jacoblin.cool/arpangupta1003?theme=dark&font=Karma&ext=contest)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arpangupta1003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
