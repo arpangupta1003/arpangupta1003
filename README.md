@@ -16,7 +16,7 @@ Know more about my experience on
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpangupta1003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=arpangupta1003&theme=dark)
+![LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=arpangupta1003&theme=dark)
 
 
 
