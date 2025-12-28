@@ -20,8 +20,6 @@ Know more about my experience on
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arpangupta1003&theme=onedark&no-frame=true&margin-w=10)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arpangupta1003&limit=5&theme=dark&combine_all_yearly_contributions=true)
